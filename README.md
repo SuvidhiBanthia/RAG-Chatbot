@@ -1,5 +1,4 @@
-# wasserstoff-AiTask
-## RAG Chatbot for Wordpress Site
+#  RAG Chatbot for Wordpress Site
 This Colab notebook implements a system that can extract text from a Wordpress website and answer user questions about the extracted content.
 
 ### Functionality:
